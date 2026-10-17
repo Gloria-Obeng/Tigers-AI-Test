@@ -1,0 +1,15 @@
+# Your personal blog settings. Keep the field names; edit the values.
+# Upload this file as content/site.yml in your GitHub repository.
+name: "Gloria Obeng"
+initials: "GO"
+headline: "Computer Science Student | IT Associate at Chartwells | Data Analysis & Entrepreneurship | University of Memphis ‘27"
+description: "I’m a Computer Science major with a minor in Entrepreneurship at the University of Memphis, where I also work as an IT associate with Chartwells and as a student assistant at the Crews Center for Entrepreneurship. I’m interested in how data and AI can support local decision-making and help student founders get started, questions I’ve explored through my volunteer data work with Innovate Memphis and projects like TigerBot and Crews AI. Here you’ll find my projects, data analyses, and notes on building technology that’s useful to communities and early-stage ventures."
+role: "Entrepreneur/ Technology"
+location: "Memphis"
+email: "gobeng.0108@gmail.com"
+url: ""
+github: "https://github.com/Gloria-Obeng/"
+linkedin: "https://www.linkedin.com/in/gloria-obeng-06b5461a0/"
+resumePdf: ""
+accent: "plum"
+templateMode: true
