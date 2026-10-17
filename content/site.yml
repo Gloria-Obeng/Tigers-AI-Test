@@ -1,20 +1,21 @@
 # Edit the text on the RIGHT of each colon. Keep the key names on the left.
 # Easier option: use your published site's /setup/ page to download this file.
 # Replace the existing content/site.yml in GitHub; downloading alone changes nothing online.
-name: "Your Name"
-initials: "YN"
-headline: "Your professional focus, in a few clear words."
-description: "Introduce yourself in two or three sentences. Explain what you study or work on, the questions that interest you, and what readers will find here. Replace these instructions with your own accurate introduction."
+name: "Gloria Obeng"
+initials: "GO"
+headline: "Computer Science Student | IT Associate at Chartwells | Data Analysis & Entrepreneurship | University of Memphis ‘27
+Balanced and clear. Works well for recruiters searching IT or data roles."
+description: "I’m a Computer Science major with a minor in Entrepreneurship at the University of Memphis, where I also work as an IT associate with Chartwells and as a student assistant at the Crews Center for Entrepreneurship. I’m interested in how data and AI can support local decision-making and help student founders get started, questions I’ve explored through my volunteer data work with Innovate Memphis and projects like TigerBot and Crews AI. Here you’ll find my projects, data analyses, and notes on building technology that’s useful to communities and early-stage ventures."
 role: "Your field / your focus"
 # Optional fields: leave the quotes empty to hide them.
-location: ""
-email: ""
+location: "Memphis"
+email: "gobeng.0108@gmail.com"
 # Leave url empty for automatic GitHub Pages configuration.
 # If you set it, use your complete live URL, including a project path if needed.
 url: ""
 # Use complete https:// profile URLs, not usernames.
-github: ""
-linkedin: ""
+github: "https://github.com/Gloria-Obeng/"
+linkedin: "https://www.linkedin.com/in/gloria-obeng-06b5461a0/"
 # Optional: upload a PDF first, then use /assets/uploads/resume.pdf here.
 resumePdf: ""
 # Choose exactly one: teal, blue, plum.
